@@ -4,5 +4,6 @@ Proyek Akhir Pemrograman Lanjut Teknik Komputer 2018 Kevin Darmawan (1806148744)
 ### Menu awal start screen
 ![](Media/Menu.gif)
 ### Game pong
+![](Media/Pong.gif.gif)
 
 
