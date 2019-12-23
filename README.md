@@ -1,5 +1,7 @@
 # Proyek Kelompok 5 : Pong
 Proyek Akhir Pemrograman Lanjut Teknik Komputer 2018 Kevin Darmawan (1806148744), Muhammad Farhan Almasyhur (1806200375)
+Main menu digunakan untuk memilih apakah ingin bermain sendiri atau berdua
+Untuk menggerakkan player kiri maka dapat menggunakan tombol W dan S, sedangkan untuk menggerakkan player kanan dapat menggunakan tombol panah atas dan bawah
 ## Visual
 ### Menu awal start screen
 ![](Media/Menu.gif)
